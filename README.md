@@ -1,2 +1,2 @@
 # githublearn
-hey there this is all about github
+hey there this is all about github and git 
